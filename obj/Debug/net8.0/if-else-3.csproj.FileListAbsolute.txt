@@ -1,0 +1,14 @@
+G:\BTK\if-else-3\bin\Debug\net8.0\if-else-3.exe
+G:\BTK\if-else-3\bin\Debug\net8.0\if-else-3.deps.json
+G:\BTK\if-else-3\bin\Debug\net8.0\if-else-3.runtimeconfig.json
+G:\BTK\if-else-3\bin\Debug\net8.0\if-else-3.dll
+G:\BTK\if-else-3\bin\Debug\net8.0\if-else-3.pdb
+G:\BTK\if-else-3\obj\Debug\net8.0\if-else-3.GeneratedMSBuildEditorConfig.editorconfig
+G:\BTK\if-else-3\obj\Debug\net8.0\if-else-3.AssemblyInfoInputs.cache
+G:\BTK\if-else-3\obj\Debug\net8.0\if-else-3.AssemblyInfo.cs
+G:\BTK\if-else-3\obj\Debug\net8.0\if-else-3.csproj.CoreCompileInputs.cache
+G:\BTK\if-else-3\obj\Debug\net8.0\if-else-3.dll
+G:\BTK\if-else-3\obj\Debug\net8.0\refint\if-else-3.dll
+G:\BTK\if-else-3\obj\Debug\net8.0\if-else-3.pdb
+G:\BTK\if-else-3\obj\Debug\net8.0\if-else-3.genruntimeconfig.cache
+G:\BTK\if-else-3\obj\Debug\net8.0\ref\if-else-3.dll
